@@ -164,6 +164,10 @@ The app uses `SharedPreferences` to persist the cart data across app restarts. H
 
 ![Remove Diamond Cart Page](screenshots/remove_cart_dialog.png)
 
+### Sort Diamond Page
+
+![Sort Diamond Page](screenshots/sort_diamond_page.png)
+
 ---
 
 ## Future Improvements
